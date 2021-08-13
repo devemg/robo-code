@@ -21,10 +21,10 @@ Mover <EXPRESION> <MOVIMIENTO>
 
 ##### Ejemplo
 ```
-Mover 10 + 10 a la izquierda
-Mover 100/100 a la derecha 
-Mover 15*2*(10+10) hacia arriba
-Mover 4-3*(100/2) hacia abajo
+Mover 10 + 10 a la izquierda;
+Mover 100/100 a la derecha;
+Mover 15*2*(10+10) hacia arriba;
+Mover 4-3*(100/2) hacia abajo;
 ```
 
 ### Saludar
@@ -37,7 +37,7 @@ Saludar <CADENA>
 
 ##### Ejemplo
 ```
-Saludar "Con un mensaje interesante"
+Saludar "Con un mensaje interesante";
 ```
 
 
