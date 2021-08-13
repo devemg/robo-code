@@ -16,7 +16,7 @@ Las direcciones permitidas son:
 
 ##### Sintaxis
 ```
-Mover <EXPRESION> <MOVIMIENTO>
+Mover <EXPRESION> <MOVIMIENTO> puntoycoma
 ```
 
 ##### Ejemplo
@@ -32,7 +32,7 @@ Permite mostrar un mensaje.
 
 ##### Sintaxis
 ```
-Saludar <CADENA>
+Saludar <CADENA> puntoycoma
 ```
 
 ##### Ejemplo
